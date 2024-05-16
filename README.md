@@ -1,1 +1,1 @@
-You can check my studies related to SOLID principles.
+This study aims to explain the SOLID principles with examples.
